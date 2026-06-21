@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.4](https://github.com/kminehart/shared-workflows/compare/find-pr-for-commit/v1.0.3...find-pr-for-commit/v1.0.4) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update octokit/graphql-action action to v3.0.2 ([#1614](https://github.com/kminehart/shared-workflows/issues/1614)) ([eecdf5e](https://github.com/kminehart/shared-workflows/commit/eecdf5e8671bef36fd20193eafce478724e8d76f))
+* **main:** release find-pr-for-commit 1.0.2 ([#1498](https://github.com/kminehart/shared-workflows/issues/1498)) ([32b178c](https://github.com/kminehart/shared-workflows/commit/32b178c32a3c02f547750d43375c734b4a602828))
+* **main:** release find-pr-for-commit 1.0.3 ([#2065](https://github.com/kminehart/shared-workflows/issues/2065)) ([b6c6616](https://github.com/kminehart/shared-workflows/commit/b6c6616c0db858adaf0c03491417a5dd9983c904))
+
 ## [1.0.3](https://github.com/grafana/shared-workflows/compare/find-pr-for-commit/v1.0.2...find-pr-for-commit/v1.0.3) (2026-06-10)
 
 
