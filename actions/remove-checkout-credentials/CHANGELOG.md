@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.2](https://github.com/kminehart/shared-workflows/compare/remove-checkout-credentials/v0.1.1...remove-checkout-credentials/v0.1.2) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release remove-checkout-credentials 0.1.1 ([#2005](https://github.com/kminehart/shared-workflows/issues/2005)) ([7df66f6](https://github.com/kminehart/shared-workflows/commit/7df66f624436c6efa81d82229ec2cf3b0b3d6440))
+
 ## [0.1.1](https://github.com/grafana/shared-workflows/compare/remove-checkout-credentials-v0.1.0...remove-checkout-credentials/v0.1.1) (2026-06-10)
 
 
