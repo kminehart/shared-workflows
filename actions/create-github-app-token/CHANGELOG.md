@@ -1,5 +1,32 @@
 # Changelog
 
+## [0.4.0](https://github.com/kminehart/shared-workflows/compare/create-github-app-token/v0.3.1...create-github-app-token/v0.4.0) (2026-06-21)
+
+
+### 🎉 Features
+
+* **create-github-app-token:** revoke token in post-job step ([#1946](https://github.com/kminehart/shared-workflows/issues/1946)) ([07a8487](https://github.com/kminehart/shared-workflows/commit/07a8487494dcc332debf98242d129ec8fbda1e56))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** clarify the workflow permissions ([#1942](https://github.com/kminehart/shared-workflows/issues/1942)) ([7ae8508](https://github.com/kminehart/shared-workflows/commit/7ae85085c0bed854b41785ba266604b08e50abe0))
+* **create-github-app-token:** remove runtime dependency on jq ([#1948](https://github.com/kminehart/shared-workflows/issues/1948)) ([065f38c](https://github.com/kminehart/shared-workflows/commit/065f38c749ff01a40a8d6b63b08dbf7befae909e))
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 📝 Documentation
+
+* **create-github-app-token:** fix some errors in readme ([#1558](https://github.com/kminehart/shared-workflows/issues/1558)) ([0a7a2fc](https://github.com/kminehart/shared-workflows/commit/0a7a2fc07560de0f2fe500ed9fd1f53ec7d86d33))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/github-script action to v9 ([#1866](https://github.com/kminehart/shared-workflows/issues/1866)) ([e5b7989](https://github.com/kminehart/shared-workflows/commit/e5b7989c92b55fe3ac6dd006d6de49082ba8c507))
+* **main:** release create-github-app-token 0.2.3 ([#1573](https://github.com/kminehart/shared-workflows/issues/1573)) ([259ba21](https://github.com/kminehart/shared-workflows/commit/259ba21cb3ff07724f331e26d926d655d24b317b))
+* **main:** release create-github-app-token 0.3.0 ([#1943](https://github.com/kminehart/shared-workflows/issues/1943)) ([795f748](https://github.com/kminehart/shared-workflows/commit/795f748a236f9de024b7514efc9a208456e7e468))
+* **main:** release create-github-app-token 0.3.1 ([#1981](https://github.com/kminehart/shared-workflows/issues/1981)) ([46f48da](https://github.com/kminehart/shared-workflows/commit/46f48da11e78ebdba7a8747ae456b11062fac83e))
+
 ## [0.3.1](https://github.com/grafana/shared-workflows/compare/create-github-app-token/v0.3.0...create-github-app-token/v0.3.1) (2026-06-01)
 
 
