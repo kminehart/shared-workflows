@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.2.0](https://github.com/kminehart/shared-workflows/compare/argo-lint/v1.1.1...argo-lint/v1.2.0) (2026-06-21)
+
+
+### 🎉 Features
+
+* **argo:** bump default Argo CLI to 3.7.10 and make version configurable in argo-lint ([f684d78](https://github.com/kminehart/shared-workflows/commit/f684d7826a961af39afa358f2e3f041fab0f5595))
+* **argo:** bump default Argo CLI to 3.7.10, make version configurable ([#1814](https://github.com/kminehart/shared-workflows/issues/1814)) ([f684d78](https://github.com/kminehart/shared-workflows/commit/f684d7826a961af39afa358f2e3f041fab0f5595))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+* reference sibling actions directly instead of checkout ([#2032](https://github.com/kminehart/shared-workflows/issues/2032)) ([614ae58](https://github.com/kminehart/shared-workflows/commit/614ae58b964b32c08d190dde334a583cc8373723))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/kminehart/shared-workflows/issues/1541)) ([773f5b1](https://github.com/kminehart/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/kminehart/shared-workflows/issues/1570)) ([af4d9df](https://github.com/kminehart/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/kminehart/shared-workflows/issues/1590)) ([2425a5f](https://github.com/kminehart/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/kminehart/shared-workflows/issues/1672)) ([3105e25](https://github.com/kminehart/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update grafana/shared-workflows/setup-argo action to v1.2.1 ([#2095](https://github.com/kminehart/shared-workflows/issues/2095)) ([8483e85](https://github.com/kminehart/shared-workflows/commit/8483e856baf8ecdeb4b178504eb879b3e41a46cb))
+* **main:** release argo-lint 1.0.3 ([#1224](https://github.com/kminehart/shared-workflows/issues/1224)) ([49fd211](https://github.com/kminehart/shared-workflows/commit/49fd211b0975ce64aa4a37b711746889e55820a8))
+* **main:** release argo-lint 1.1.0 ([#1678](https://github.com/kminehart/shared-workflows/issues/1678)) ([ef80df8](https://github.com/kminehart/shared-workflows/commit/ef80df8c22d44c0e353da46db96c901a6a5a6d0d))
+* **main:** release argo-lint 1.1.1 ([#2007](https://github.com/kminehart/shared-workflows/issues/2007)) ([620d887](https://github.com/kminehart/shared-workflows/commit/620d8872be7b567064313295cd626f6e6e12b0ea))
+
 ## [1.1.1](https://github.com/grafana/shared-workflows/compare/argo-lint/v1.1.0...argo-lint/v1.1.1) (2026-06-10)
 
 
