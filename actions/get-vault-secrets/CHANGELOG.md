@@ -1,5 +1,30 @@
 # Changelog
 
+## [3.0.0](https://github.com/kminehart/shared-workflows/compare/get-vault-secrets/v2.0.0...get-vault-secrets/v3.0.0) (2026-06-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **get-vault-secrets:** remove export_env option, use JSON output always ([#1957](https://github.com/kminehart/shared-workflows/issues/1957))
+
+### 🎉 Features
+
+* **get-vault-secrets:** remove export_env option, use JSON output always ([#1957](https://github.com/kminehart/shared-workflows/issues/1957)) ([84e8abf](https://github.com/kminehart/shared-workflows/commit/84e8abf0d3cd31cc8fa01d0e2c629a96864a108a))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/github-script action to v9 ([#1866](https://github.com/kminehart/shared-workflows/issues/1866)) ([e5b7989](https://github.com/kminehart/shared-workflows/commit/e5b7989c92b55fe3ac6dd006d6de49082ba8c507))
+* **deps:** update hashicorp/vault-action action to v4 ([#2045](https://github.com/kminehart/shared-workflows/issues/2045)) ([753db01](https://github.com/kminehart/shared-workflows/commit/753db0190710a686e3e5cf11175c50b175fb8661))
+* **main:** release get-vault-secrets 1.3.1 ([#1308](https://github.com/kminehart/shared-workflows/issues/1308)) ([f1614b2](https://github.com/kminehart/shared-workflows/commit/f1614b210386ac420af6807a997ac7f6d96e477a))
+* **main:** release get-vault-secrets 1.3.2 ([#1868](https://github.com/kminehart/shared-workflows/issues/1868)) ([a53fc80](https://github.com/kminehart/shared-workflows/commit/a53fc80bc30b0a16a262520465db899fa3af08b7))
+* **main:** release get-vault-secrets 2.0.0 ([#2015](https://github.com/kminehart/shared-workflows/issues/2015)) ([e46fe1e](https://github.com/kminehart/shared-workflows/commit/e46fe1e9a2bf9e618bcf8d8d32f3a7381b45c06d))
+
 ## [2.0.0](https://github.com/grafana/shared-workflows/compare/get-vault-secrets/v1.3.2...get-vault-secrets/v2.0.0) (2026-06-08)
 
 
