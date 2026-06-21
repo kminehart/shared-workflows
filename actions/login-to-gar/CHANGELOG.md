@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.0.4](https://github.com/kminehart/shared-workflows/compare/login-to-gar/v1.0.3...login-to-gar/v1.0.4) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 📝 Documentation
+
+* **multiple:** add warning about push to GAR failure ([#1555](https://github.com/kminehart/shared-workflows/issues/1555)) ([eb33f84](https://github.com/kminehart/shared-workflows/commit/eb33f84481d38701f4d2c587a4817ce332784f5f))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release login-to-gar 1.0.2 ([#1559](https://github.com/kminehart/shared-workflows/issues/1559)) ([12c87e5](https://github.com/kminehart/shared-workflows/commit/12c87e5aa323694c820c1ff3d8e47e8237e05136))
+* **main:** release login-to-gar 1.0.3 ([#1998](https://github.com/kminehart/shared-workflows/issues/1998)) ([1f54187](https://github.com/kminehart/shared-workflows/commit/1f541877ceb22c7be7667d8a8df04984aeac9f9d))
+
 ## [1.0.3](https://github.com/grafana/shared-workflows/compare/login-to-gar/v1.0.2...login-to-gar/v1.0.3) (2026-06-10)
 
 
