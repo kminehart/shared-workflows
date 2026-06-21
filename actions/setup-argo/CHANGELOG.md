@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.3.0](https://github.com/kminehart/shared-workflows/compare/setup-argo/v1.2.1...setup-argo/v1.3.0) (2026-06-21)
+
+
+### 🎉 Features
+
+* **argo:** bump default Argo CLI to 3.7.10 and make version configurable in argo-lint ([f684d78](https://github.com/kminehart/shared-workflows/commit/f684d7826a961af39afa358f2e3f041fab0f5595))
+* **argo:** bump default Argo CLI to 3.7.10, make version configurable ([#1814](https://github.com/kminehart/shared-workflows/issues/1814)) ([f684d78](https://github.com/kminehart/shared-workflows/commit/f684d7826a961af39afa358f2e3f041fab0f5595))
+* **trigger-argo-workflows:** update default argo-cli version to 4.0.3 ([#1827](https://github.com/kminehart/shared-workflows/issues/1827)) ([e53f729](https://github.com/kminehart/shared-workflows/commit/e53f7299a1dcda82d5e0f5444264621b94062207))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release setup-argo 1.0.3 ([#1204](https://github.com/kminehart/shared-workflows/issues/1204)) ([1f95845](https://github.com/kminehart/shared-workflows/commit/1f958452affef07e3ad4de8579b9db6baa545938))
+* **main:** release setup-argo 1.1.0 ([#1817](https://github.com/kminehart/shared-workflows/issues/1817)) ([1a65d12](https://github.com/kminehart/shared-workflows/commit/1a65d12ac32102894bd5db3d6a7ec71a5f232f48))
+* **main:** release setup-argo 1.2.0 ([#1828](https://github.com/kminehart/shared-workflows/issues/1828)) ([f026829](https://github.com/kminehart/shared-workflows/commit/f02682926bde2aa45a1a8b74409c94508d8952ec))
+* **main:** release setup-argo 1.2.1 ([#2062](https://github.com/kminehart/shared-workflows/issues/2062)) ([21cbef8](https://github.com/kminehart/shared-workflows/commit/21cbef8182ef0fc1c3ae8e68b9590af49ed10a5b))
+
 ## [1.2.1](https://github.com/grafana/shared-workflows/compare/setup-argo/v1.2.0...setup-argo/v1.2.1) (2026-06-10)
 
 
