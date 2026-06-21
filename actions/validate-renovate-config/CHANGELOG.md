@@ -1,5 +1,44 @@
 # Changelog
 
+## [0.1.5](https://github.com/kminehart/shared-workflows/compare/validate-renovate-config/v0.1.4...validate-renovate-config/v0.1.5) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/setup-node action to v6.1.0 ([#1598](https://github.com/kminehart/shared-workflows/issues/1598)) ([ddca2ac](https://github.com/kminehart/shared-workflows/commit/ddca2aceda132464ae86fcd8bce489d11a47ee1e))
+* **deps:** update actions/setup-node action to v6.2.0 ([#1664](https://github.com/kminehart/shared-workflows/issues/1664)) ([37a0572](https://github.com/kminehart/shared-workflows/commit/37a05721adf71d24f6f4f5016c427eefdbfb6566))
+* **deps:** update actions/setup-node action to v6.3.0 ([#1770](https://github.com/kminehart/shared-workflows/issues/1770)) ([11e75ec](https://github.com/kminehart/shared-workflows/commit/11e75ec9a4eb153dcc8a894e2a57b995573cc149))
+* **deps:** update actions/setup-node action to v6.4.0 ([#1894](https://github.com/kminehart/shared-workflows/issues/1894)) ([0f3e84a](https://github.com/kminehart/shared-workflows/commit/0f3e84a3f952139dcfcfed85aeba4d85dd9b5114))
+* **deps:** update dependency renovate to 42.10 ([#1534](https://github.com/kminehart/shared-workflows/issues/1534)) ([0cbd309](https://github.com/kminehart/shared-workflows/commit/0cbd309f5768cc9ce83860cfa7e7cdadee161532))
+* **deps:** update dependency renovate to 42.11 ([#1540](https://github.com/kminehart/shared-workflows/issues/1540)) ([92b146a](https://github.com/kminehart/shared-workflows/commit/92b146a38ab3445298c31cb0a8c35df41ea3b9af))
+* **deps:** update dependency renovate to 42.12 ([#1552](https://github.com/kminehart/shared-workflows/issues/1552)) ([2450ed3](https://github.com/kminehart/shared-workflows/commit/2450ed36c19ce06a3048b103427ef95532ef7bab))
+* **deps:** update dependency renovate to 42.13 ([#1553](https://github.com/kminehart/shared-workflows/issues/1553)) ([776d57f](https://github.com/kminehart/shared-workflows/commit/776d57f0c1cf5bab2fff564229d23efa4a9b7649))
+* **deps:** update dependency renovate to 42.26 ([#1583](https://github.com/kminehart/shared-workflows/issues/1583)) ([644299e](https://github.com/kminehart/shared-workflows/commit/644299e7786c44db8545b291ee29a5b0dabf54a7))
+* **deps:** update dependency renovate to 42.3 ([#1525](https://github.com/kminehart/shared-workflows/issues/1525)) ([045a631](https://github.com/kminehart/shared-workflows/commit/045a631ec2b983ccf2befbf730cab70da944f118))
+* **deps:** update dependency renovate to 42.37 ([#1599](https://github.com/kminehart/shared-workflows/issues/1599)) ([63d73c5](https://github.com/kminehart/shared-workflows/commit/63d73c5d8339dd7b526e22a740c03c0cf4caced3))
+* **deps:** update dependency renovate to 42.5 ([#1526](https://github.com/kminehart/shared-workflows/issues/1526)) ([8b88213](https://github.com/kminehart/shared-workflows/commit/8b88213bca76e86f9f59b43038cc5d7545452436))
+* **deps:** update dependency renovate to 42.82 ([#1665](https://github.com/kminehart/shared-workflows/issues/1665)) ([8c07a88](https://github.com/kminehart/shared-workflows/commit/8c07a88248e6c5a067e77b39b114219173f8c4b0))
+* **deps:** update dependency renovate to 42.92 ([#1675](https://github.com/kminehart/shared-workflows/issues/1675)) ([5f4576d](https://github.com/kminehart/shared-workflows/commit/5f4576dd4698e5561b363a67a3c3e41548060816))
+* **deps:** update dependency renovate to 42.95 ([#1690](https://github.com/kminehart/shared-workflows/issues/1690)) ([ac51935](https://github.com/kminehart/shared-workflows/commit/ac5193564bb463032623a9a0ba23716f866f309c))
+* **deps:** update dependency renovate to 43.10 ([#1724](https://github.com/kminehart/shared-workflows/issues/1724)) ([7758749](https://github.com/kminehart/shared-workflows/commit/775874934ae5e0adbc55b3e7d3571d140bcc7886))
+* **deps:** update dependency renovate to 43.104 ([#1836](https://github.com/kminehart/shared-workflows/issues/1836)) ([fff7794](https://github.com/kminehart/shared-workflows/commit/fff7794b0b9537b2a37884eef14fa7b184dd4a89))
+* **deps:** update dependency renovate to 43.110 ([#1867](https://github.com/kminehart/shared-workflows/issues/1867)) ([86ca535](https://github.com/kminehart/shared-workflows/commit/86ca535b008126b06a294cbc0965fb784c792645))
+* **deps:** update dependency renovate to 43.127 ([#1886](https://github.com/kminehart/shared-workflows/issues/1886)) ([3679a93](https://github.com/kminehart/shared-workflows/commit/3679a9381aad70bf2554d6c73aa092c0234b65ce))
+* **deps:** update dependency renovate to 43.140 ([#1903](https://github.com/kminehart/shared-workflows/issues/1903)) ([da5fcec](https://github.com/kminehart/shared-workflows/commit/da5fcec5fdf7fe2f7da879e719c84b6d6131e631))
+* **deps:** update dependency renovate to 43.30 ([#1741](https://github.com/kminehart/shared-workflows/issues/1741)) ([9bb9db6](https://github.com/kminehart/shared-workflows/commit/9bb9db6f902f88d152f244be0e292b6a230f4352))
+* **deps:** update dependency renovate to 43.6 ([#1702](https://github.com/kminehart/shared-workflows/issues/1702)) ([3102e45](https://github.com/kminehart/shared-workflows/commit/3102e457c84dbec8339c484f85d1b93582f555d7))
+* **deps:** update dependency renovate to 43.87 ([#1806](https://github.com/kminehart/shared-workflows/issues/1806)) ([6469743](https://github.com/kminehart/shared-workflows/commit/64697433e0b78485bbc62748adba42db2fd11ddc))
+* **deps:** update dependency renovate to v43 ([#1691](https://github.com/kminehart/shared-workflows/issues/1691)) ([d3d9a8d](https://github.com/kminehart/shared-workflows/commit/d3d9a8da530dd36d4e101522ce24e86922ce6ac2))
+* **main:** release validate-renovate-config 0.1.1 ([#1402](https://github.com/kminehart/shared-workflows/issues/1402)) ([051f0a1](https://github.com/kminehart/shared-workflows/commit/051f0a1cef0e1ef9f92fbe57c65b1eec029c3904))
+* **main:** release validate-renovate-config 0.1.2 ([#1692](https://github.com/kminehart/shared-workflows/issues/1692)) ([726f1a9](https://github.com/kminehart/shared-workflows/commit/726f1a912f45b4807774b76a6d40cbd3fb7a12c0))
+* **main:** release validate-renovate-config 0.1.3 ([#1771](https://github.com/kminehart/shared-workflows/issues/1771)) ([ee85cc9](https://github.com/kminehart/shared-workflows/commit/ee85cc9b5b1d6c880b92c77c19817f29b2338c77))
+* **main:** release validate-renovate-config 0.1.4 ([#2049](https://github.com/kminehart/shared-workflows/issues/2049)) ([b747448](https://github.com/kminehart/shared-workflows/commit/b7474485d59e97b4ee81d5f94f442f072380bf79))
+
 ## [0.1.4](https://github.com/grafana/shared-workflows/compare/validate-renovate-config/v0.1.3...validate-renovate-config/v0.1.4) (2026-06-10)
 
 
