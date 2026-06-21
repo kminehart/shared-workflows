@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.3](https://github.com/kminehart/shared-workflows/compare/validate-policy-bot-config/v1.1.2...validate-policy-bot-config/v1.1.3) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release validate-policy-bot-config 1.1.2 ([#2059](https://github.com/kminehart/shared-workflows/issues/2059)) ([9c532c9](https://github.com/kminehart/shared-workflows/commit/9c532c9db4f2dd6b52eb787b22c39f19fb9ea995))
+
 ## [1.1.2](https://github.com/grafana/shared-workflows/compare/validate-policy-bot-config/v1.1.1...validate-policy-bot-config/v1.1.2) (2026-06-10)
 
 
