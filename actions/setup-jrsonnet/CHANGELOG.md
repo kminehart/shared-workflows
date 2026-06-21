@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.4](https://github.com/kminehart/shared-workflows/compare/setup-jrsonnet/v1.0.3...setup-jrsonnet/v1.0.4) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release setup-jrsonnet 1.0.3 ([#2050](https://github.com/kminehart/shared-workflows/issues/2050)) ([b3d9952](https://github.com/kminehart/shared-workflows/commit/b3d995239390fe5b53ad3c0f5343993bf7fd95cd))
+
 ## [1.0.3](https://github.com/grafana/shared-workflows/compare/setup-jrsonnet/v1.0.2...setup-jrsonnet/v1.0.3) (2026-06-10)
 
 
