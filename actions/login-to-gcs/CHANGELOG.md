@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.2](https://github.com/kminehart/shared-workflows/compare/login-to-gcs/v0.3.1...login-to-gcs/v0.3.2) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release login-to-gcs 0.3.1 ([#2061](https://github.com/kminehart/shared-workflows/issues/2061)) ([1f02013](https://github.com/kminehart/shared-workflows/commit/1f02013f3a8a0c29e3cb7dc6793158defe914569))
+
 ## [0.3.1](https://github.com/grafana/shared-workflows/compare/login-to-gcs/v0.3.0...login-to-gcs/v0.3.1) (2026-06-10)
 
 
