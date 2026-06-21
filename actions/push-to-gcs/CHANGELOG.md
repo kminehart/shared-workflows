@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.3.3](https://github.com/kminehart/shared-workflows/compare/push-to-gcs/v0.3.2...push-to-gcs/v0.3.3) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+* reference sibling actions directly instead of checkout ([#2032](https://github.com/kminehart/shared-workflows/issues/2032)) ([614ae58](https://github.com/kminehart/shared-workflows/commit/614ae58b964b32c08d190dde334a583cc8373723))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/kminehart/shared-workflows/issues/1541)) ([773f5b1](https://github.com/kminehart/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/kminehart/shared-workflows/issues/1570)) ([af4d9df](https://github.com/kminehart/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/kminehart/shared-workflows/issues/1590)) ([2425a5f](https://github.com/kminehart/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/kminehart/shared-workflows/issues/1672)) ([3105e25](https://github.com/kminehart/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update grafana/shared-workflows/login-to-gcs action to v0.3.1 ([#2094](https://github.com/kminehart/shared-workflows/issues/2094)) ([6d9951c](https://github.com/kminehart/shared-workflows/commit/6d9951c9b47c3b4d659c9ef227fc4c154acf2b02))
+* **main:** release push-to-gcs 0.3.1 ([#1544](https://github.com/kminehart/shared-workflows/issues/1544)) ([bc692dc](https://github.com/kminehart/shared-workflows/commit/bc692dca3f6e354bc565ae8f6e622f24a6162b66))
+* **main:** release push-to-gcs 0.3.2 ([#2053](https://github.com/kminehart/shared-workflows/issues/2053)) ([088e23a](https://github.com/kminehart/shared-workflows/commit/088e23a5f09be7b85cedbf89f119244125878ad9))
+* **main:** release push-to-gcs 0.3.2 ([#2063](https://github.com/kminehart/shared-workflows/issues/2063)) ([872ea72](https://github.com/kminehart/shared-workflows/commit/872ea72d5d58e24fce5b9ce004dbd03b243efdf7))
+* **main:** release push-to-gcs 0.3.2 ([#2070](https://github.com/kminehart/shared-workflows/issues/2070)) ([570b023](https://github.com/kminehart/shared-workflows/commit/570b0238e7f3240cff9b4c6c4516a6b925688223))
+
 ## [0.3.2](https://github.com/grafana/shared-workflows/compare/push-to-gcs/v0.3.1...push-to-gcs/v0.3.2) (2026-06-10)
 
 
