@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.4.0](https://github.com/kminehart/shared-workflows/compare/cleanup-branches/v0.3.1...cleanup-branches/v0.4.0) (2026-06-21)
+
+
+### 🎉 Features
+
+* **cleanup-branches:** add `exclude-patterns` input ([#1972](https://github.com/kminehart/shared-workflows/issues/1972)) ([325973e](https://github.com/kminehart/shared-workflows/commit/325973e977dd9f6c4397da14a1c754a7f62da308))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release cleanup-branches 0.3.0 ([#1978](https://github.com/kminehart/shared-workflows/issues/1978)) ([fd1bb11](https://github.com/kminehart/shared-workflows/commit/fd1bb11a702aea51d7b13f222e9355e8b63e0668))
+* **main:** release cleanup-branches 0.3.1 ([#2064](https://github.com/kminehart/shared-workflows/issues/2064)) ([36e5c27](https://github.com/kminehart/shared-workflows/commit/36e5c2754eabcbb9c1201a7fc6b2bf2aa2deb7ab))
+
 ## [0.3.1](https://github.com/grafana/shared-workflows/compare/cleanup-branches/v0.3.0...cleanup-branches/v0.3.1) (2026-06-10)
 
 
