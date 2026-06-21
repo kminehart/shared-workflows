@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.2.0](https://github.com/kminehart/shared-workflows/compare/generate-openapi-clients/v1.1.1...generate-openapi-clients/v1.2.0) (2026-06-21)
+
+
+### 🎉 Features
+
+* add committer info to openapi clients ([#1547](https://github.com/kminehart/shared-workflows/issues/1547)) ([0c35ca9](https://github.com/kminehart/shared-workflows/commit/0c35ca9c1d8794ccf9cfcfdcdd6b02261c7d0183))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+* **generate-openapi-clients:** fix error on model template generation ([#1671](https://github.com/kminehart/shared-workflows/issues/1671)) ([a8b264c](https://github.com/kminehart/shared-workflows/commit/a8b264cb3351a7db8fdf80ab353dd2d247828acb))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update stefanzweifel/git-auto-commit-action action to v7.1.0 ([#1636](https://github.com/kminehart/shared-workflows/issues/1636)) ([abe0147](https://github.com/kminehart/shared-workflows/commit/abe0147b0e7aa1ec8501847b8e5f8238fa49bcf9))
+* **main:** release generate-openapi-clients 1.1.0 ([#1550](https://github.com/kminehart/shared-workflows/issues/1550)) ([8ef55db](https://github.com/kminehart/shared-workflows/commit/8ef55db5803bf7fc92e32ca4a4f488657f3f53fe))
+* **main:** release generate-openapi-clients 1.1.1 ([#2003](https://github.com/kminehart/shared-workflows/issues/2003)) ([1289dac](https://github.com/kminehart/shared-workflows/commit/1289dacd60576c58b970dd67d434170dd7658409))
+
 ## [1.1.1](https://github.com/grafana/shared-workflows/compare/generate-openapi-clients/v1.1.0...generate-openapi-clients/v1.1.1) (2026-06-10)
 
 
