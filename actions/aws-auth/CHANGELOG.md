@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.5](https://github.com/kminehart/shared-workflows/compare/aws-auth/v1.0.4...aws-auth/v1.0.5) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release aws-auth 1.0.4 ([#2046](https://github.com/kminehart/shared-workflows/issues/2046)) ([bb04b9b](https://github.com/kminehart/shared-workflows/commit/bb04b9b1c3903959957c63d1370b2d49a4b978d0))
+
 ## [1.0.4](https://github.com/grafana/shared-workflows/compare/aws-auth/v1.0.3...aws-auth/v1.0.4) (2026-06-10)
 
 
