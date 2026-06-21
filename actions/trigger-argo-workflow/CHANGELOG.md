@@ -1,5 +1,44 @@
 # Changelog
 
+## [3.0.0](https://github.com/kminehart/shared-workflows/compare/trigger-argo-workflow/v2.0.0...trigger-argo-workflow/v3.0.0) (2026-06-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **get-vault-secrets:** remove export_env option, use JSON output always ([#1957](https://github.com/kminehart/shared-workflows/issues/1957))
+
+### 🎉 Features
+
+* **get-vault-secrets:** remove export_env option, use JSON output always ([#1957](https://github.com/kminehart/shared-workflows/issues/1957)) ([84e8abf](https://github.com/kminehart/shared-workflows/commit/84e8abf0d3cd31cc8fa01d0e2c629a96864a108a))
+* output Argo workflow URL in summary ([#1908](https://github.com/kminehart/shared-workflows/issues/1908)) ([b131235](https://github.com/kminehart/shared-workflows/commit/b131235b5aecfe27472557d91842116ef224d716))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+* remove shared-workflows checkout from composite actions ([#2036](https://github.com/kminehart/shared-workflows/issues/2036)) ([d6624ff](https://github.com/kminehart/shared-workflows/commit/d6624ff13ea9c78935851225fd1ccabb23423be6))
+* **trigger-argo-workflow:** allow passing parameters with commas ([#1697](https://github.com/kminehart/shared-workflows/issues/1697)) ([7f983a8](https://github.com/kminehart/shared-workflows/commit/7f983a8135eb58eaec83c96d8b842b2092e110e3))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** bump the go group ([a369fe9](https://github.com/kminehart/shared-workflows/commit/a369fe99d9d98fa42eea954fb905c4a200dc5973))
+* **deps:** bump the go group in /actions/trigger-argo-workflow with 2 updates ([#1560](https://github.com/kminehart/shared-workflows/issues/1560)) ([a369fe9](https://github.com/kminehart/shared-workflows/commit/a369fe99d9d98fa42eea954fb905c4a200dc5973))
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/kminehart/shared-workflows/issues/1541)) ([773f5b1](https://github.com/kminehart/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/kminehart/shared-workflows/issues/1570)) ([af4d9df](https://github.com/kminehart/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/kminehart/shared-workflows/issues/1590)) ([2425a5f](https://github.com/kminehart/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/kminehart/shared-workflows/issues/1672)) ([3105e25](https://github.com/kminehart/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update actions/setup-go action to v6.1.0 ([#1565](https://github.com/kminehart/shared-workflows/issues/1565)) ([cfddbee](https://github.com/kminehart/shared-workflows/commit/cfddbeede13168d5c0d75c201fd298363a647e27))
+* **deps:** update actions/setup-go action to v6.2.0 ([#1657](https://github.com/kminehart/shared-workflows/issues/1657)) ([d29b916](https://github.com/kminehart/shared-workflows/commit/d29b9161f1803baed4a7305c85cb5a3018bc3c3e))
+* **deps:** update actions/setup-go action to v6.3.0 ([#1756](https://github.com/kminehart/shared-workflows/issues/1756)) ([c6b0752](https://github.com/kminehart/shared-workflows/commit/c6b07529443393154d824d1ad0e707f4b3d090f6))
+* **deps:** update actions/setup-go action to v6.4.0 ([#1837](https://github.com/kminehart/shared-workflows/issues/1837)) ([170bd5b](https://github.com/kminehart/shared-workflows/commit/170bd5b0ba3c2414519216fd5d7f0fe5a40e3f40))
+* **deps:** update grafana/shared-workflows/setup-argo action to v1.2.1 ([#2095](https://github.com/kminehart/shared-workflows/issues/2095)) ([8483e85](https://github.com/kminehart/shared-workflows/commit/8483e856baf8ecdeb4b178504eb879b3e41a46cb))
+* **main:** release trigger-argo-workflow 1.2.1 ([#1269](https://github.com/kminehart/shared-workflows/issues/1269)) ([e100806](https://github.com/kminehart/shared-workflows/commit/e100806688f1209051080dfea5719fbbd1d18cc0))
+* **main:** release trigger-argo-workflow 1.2.2 ([#1567](https://github.com/kminehart/shared-workflows/issues/1567)) ([b513eb1](https://github.com/kminehart/shared-workflows/commit/b513eb1dfd9becfa671a41e55063cdd5c0a08031))
+* **main:** release trigger-argo-workflow 1.3.0 ([#1759](https://github.com/kminehart/shared-workflows/issues/1759)) ([8269e93](https://github.com/kminehart/shared-workflows/commit/8269e9362f30c5458c2cad54510ea74fd053920c))
+* **main:** release trigger-argo-workflow 2.0.0 ([#2016](https://github.com/kminehart/shared-workflows/issues/2016)) ([5a212d5](https://github.com/kminehart/shared-workflows/commit/5a212d56e9d224851dc4b3c2643bbc5bac484d5d))
+* **trigger-argo-workflow:** bump go version to 1.26 ([#2103](https://github.com/kminehart/shared-workflows/issues/2103)) ([364647a](https://github.com/kminehart/shared-workflows/commit/364647ab68297cdb061a62142f041e122c68859f)), closes [#2017](https://github.com/kminehart/shared-workflows/issues/2017)
+
 ## [2.0.0](https://github.com/grafana/shared-workflows/compare/trigger-argo-workflow/v1.3.0...trigger-argo-workflow/v2.0.0) (2026-06-10)
 
 
