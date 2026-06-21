@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.5](https://github.com/kminehart/shared-workflows/compare/setup-conftest/v1.0.4...setup-conftest/v1.0.5) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release setup-conftest 1.0.3 ([#1205](https://github.com/kminehart/shared-workflows/issues/1205)) ([02bf120](https://github.com/kminehart/shared-workflows/commit/02bf1204ecbc508b11927677dcec9ab70ecfcea5))
+* **main:** release setup-conftest 1.0.4 ([#2047](https://github.com/kminehart/shared-workflows/issues/2047)) ([2f26171](https://github.com/kminehart/shared-workflows/commit/2f26171ff71af6813c1e8dee2b76a2d82afce82e))
+
 ## [1.0.4](https://github.com/grafana/shared-workflows/compare/setup-conftest/v1.0.3...setup-conftest/v1.0.4) (2026-06-10)
 
 
