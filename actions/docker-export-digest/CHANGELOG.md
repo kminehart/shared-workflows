@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.5](https://github.com/kminehart/shared-workflows/compare/docker-export-digest/v0.1.4...docker-export-digest/v0.1.5) (2026-06-21)
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/upload-artifact action to v7 ([#1762](https://github.com/kminehart/shared-workflows/issues/1762)) ([af89a9f](https://github.com/kminehart/shared-workflows/commit/af89a9f0638d70d86acbcc7006f5c22cfa6dacde))
+* **deps:** update actions/upload-artifact action to v7.0.1 ([#1870](https://github.com/kminehart/shared-workflows/issues/1870)) ([eb06a23](https://github.com/kminehart/shared-workflows/commit/eb06a232083bce1c63e34470857190afdc8e4e89))
+* **deps:** update github artifact actions ([3b65def](https://github.com/kminehart/shared-workflows/commit/3b65def88604a4f3789b144e891b14efeb528057))
+* **deps:** update github artifact actions (major) ([#1629](https://github.com/kminehart/shared-workflows/issues/1629)) ([3b65def](https://github.com/kminehart/shared-workflows/commit/3b65def88604a4f3789b144e891b14efeb528057))
+* **main:** release docker-export-digest 0.1.2 ([#1632](https://github.com/kminehart/shared-workflows/issues/1632)) ([4d53725](https://github.com/kminehart/shared-workflows/commit/4d53725e812211a661bd89c8f4925c33584e1f45))
+* **main:** release docker-export-digest 0.1.3 ([#1763](https://github.com/kminehart/shared-workflows/issues/1763)) ([89f8e44](https://github.com/kminehart/shared-workflows/commit/89f8e44efc54500588fcdd9a4926c14051ef78da))
+* **main:** release docker-export-digest 0.1.4 ([#2014](https://github.com/kminehart/shared-workflows/issues/2014)) ([015e805](https://github.com/kminehart/shared-workflows/commit/015e80562a04751edab840263e21561807c88c76))
+
 ## [0.1.4](https://github.com/grafana/shared-workflows/compare/docker-export-digest/v0.1.3...docker-export-digest/v0.1.4) (2026-06-10)
 
 
