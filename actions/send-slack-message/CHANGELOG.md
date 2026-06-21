@@ -1,5 +1,38 @@
 # Changelog
 
+## [4.0.0](https://github.com/kminehart/shared-workflows/compare/send-slack-message/v3.0.2...send-slack-message/v4.0.0) (2026-06-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **get-vault-secrets:** remove export_env option, use JSON output always ([#1957](https://github.com/kminehart/shared-workflows/issues/1957))
+
+### 🎉 Features
+
+* **get-vault-secrets:** remove export_env option, use JSON output always ([#1957](https://github.com/kminehart/shared-workflows/issues/1957)) ([84e8abf](https://github.com/kminehart/shared-workflows/commit/84e8abf0d3cd31cc8fa01d0e2c629a96864a108a))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** trigger release-please for reverted gatb change ([#1988](https://github.com/kminehart/shared-workflows/issues/1988)) ([e6c8753](https://github.com/kminehart/shared-workflows/commit/e6c875364b041be8288bcb1bee15f79cea31ffb1))
+* reference sibling actions directly instead of checkout ([#2032](https://github.com/kminehart/shared-workflows/issues/2032)) ([614ae58](https://github.com/kminehart/shared-workflows/commit/614ae58b964b32c08d190dde334a583cc8373723))
+* **send-slack-message:** default payload-templated to false ([#2030](https://github.com/kminehart/shared-workflows/issues/2030)) ([b020d35](https://github.com/kminehart/shared-workflows/commit/b020d35e39552b691c35e02ec5cfcd4cda6159d7))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/kminehart/shared-workflows/issues/1541)) ([773f5b1](https://github.com/kminehart/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/kminehart/shared-workflows/issues/1570)) ([af4d9df](https://github.com/kminehart/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/kminehart/shared-workflows/issues/1590)) ([2425a5f](https://github.com/kminehart/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/kminehart/shared-workflows/issues/1672)) ([3105e25](https://github.com/kminehart/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update slackapi/slack-github-action action to v3 ([#1809](https://github.com/kminehart/shared-workflows/issues/1809)) ([ae4a89e](https://github.com/kminehart/shared-workflows/commit/ae4a89e4d3bc15c355480ed6aa51b1fd7e5d5158))
+* **deps:** update slackapi/slack-github-action action to v3.0.2 ([#1902](https://github.com/kminehart/shared-workflows/issues/1902)) ([3f06e5e](https://github.com/kminehart/shared-workflows/commit/3f06e5ea575feea21335d788ba4a18473f434355))
+* **deps:** update slackapi/slack-github-action action to v3.0.3 ([#1921](https://github.com/kminehart/shared-workflows/issues/1921)) ([860a297](https://github.com/kminehart/shared-workflows/commit/860a2973c4503ce06a7aea9fc9f054bade901d1f))
+* **main:** release send-slack-message 2.0.5 ([#1545](https://github.com/kminehart/shared-workflows/issues/1545)) ([eb1fbd8](https://github.com/kminehart/shared-workflows/commit/eb1fbd807f87aea8f40ff08dc9cd02872cad55b3))
+* **main:** release send-slack-message 3.0.0 ([#1938](https://github.com/kminehart/shared-workflows/issues/1938)) ([e288f43](https://github.com/kminehart/shared-workflows/commit/e288f43e2954fe65ce3dadfcc418dacb638cf7e1))
+* **main:** release send-slack-message 3.0.1 ([#2031](https://github.com/kminehart/shared-workflows/issues/2031)) ([952ec38](https://github.com/kminehart/shared-workflows/commit/952ec381447a2002ff76103395d37bf8b4c7c3f5))
+* **main:** release send-slack-message 3.0.2 ([#2034](https://github.com/kminehart/shared-workflows/issues/2034)) ([551bc8d](https://github.com/kminehart/shared-workflows/commit/551bc8d50017d3e95d5da3f8a4826e733a208dc0))
+
 ## [3.0.2](https://github.com/grafana/shared-workflows/compare/send-slack-message/v3.0.1...send-slack-message/v3.0.2) (2026-06-10)
 
 
